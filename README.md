@@ -1,3 +1,12 @@
+
+This is a fork of Vertcoin Wallet - it will be modified for Mjollnircoin
+
+
+- brokkir
+
+
+
+
 Welcome to _Vertcoin Wallet_, a standalone Vertcoin payment app for your Android device!
 
 This project contains several sub-projects:
